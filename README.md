@@ -13,3 +13,6 @@ Features
 * Ability to hide the author's name or the article category in the articles info.
 * Icons for the following social networks: Facebook, Github, Google+, LastFM, LinkedIN, RSS/ATOM, Twitter, Vimeo and Youtube.
 
+Preview
+-------
+![Screenshot-1](https://raw.github.com/blueicefield/pelican-blueidea/master/screenshot-1.png)
