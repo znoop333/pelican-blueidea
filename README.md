@@ -48,3 +48,7 @@ Settings
 
 	# Social widget
 	SOCIAL
+
+Browsers compatibility
+----------------------
+Only tested with latest releases of Mozilla Firefox and Chromium/Chrome.
